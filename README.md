@@ -1,5 +1,7 @@
 # Disk Usage Monitor
 
+[![Python Tests](https://github.com/joelavalleeteach/disk-usage-monitor/actions/workflows/tests.yml/badge.svg)](https://github.com/joelavalleeteach/disk-usage-monitor/actions/workflows/tests.yml)
+
 A Python command-line tool that checks disk usage for configured paths and reports OK, WARNING, CRITICAL, or UNKNOWN status.
 
 ## Features
