@@ -21,7 +21,7 @@ A Python command-line tool that checks disk usage for configured paths and repor
 ```powershell
 git clone https://github.com/joelavalleeteach/disk-usage-monitor.git
 cd disk-usage-monitor
-py -m pip install pytest
+py -m pip install -r requirements-dev.txt
 ```
 
 ## Configuration
