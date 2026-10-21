@@ -1,0 +1,8 @@
+{
+  "warning_threshold": 80,
+  "critical_threshold": 90,
+  "paths": [
+    "C:/",
+    "C:/this-path-does-not-exist"
+  ]
+}
