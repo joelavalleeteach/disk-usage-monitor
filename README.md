@@ -63,4 +63,4 @@ The tests cover threshold boundaries, input validation, configuration loading, a
 
 ## Project Status
 
-Developed and tested on Windows. Linux validation and automated test runs through GitHub Actions are planned.
+Developed and tested locally on Windows. All 22 automated tests also pass on Ubuntu with Python 3.13 through GitHub Actions. The workflow runs on pushes and pull requests. The supplied example configuration uses Windows paths.
